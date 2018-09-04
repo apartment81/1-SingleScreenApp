@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MacheteAuto</string>
+    <string name="company_name">macheteAuto</string>
+    <string name="about">Online place for new and old diecast model cars</string>
+    <string name="weblink">www.macheteauto.com</string>
+    <string name="main_image">main_image</string>
+    <string name="maic">maic</string>
+
+</resources>
